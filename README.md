@@ -15,3 +15,14 @@ To get an overview of training details and experimental results, please refer to
 **Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Jupyter Lab_, _Colab_
 
 ## 2. Demo
+
+Our trained model can detect `human`, `cats`, and `dogs` from the images. Here are some examples:
+
+![](00048nms.jpeg)
+
+![](00058nms.jpeg)
+
+![](00062nms.jpeg)
+
+![](00068nms.jpeg)
+
