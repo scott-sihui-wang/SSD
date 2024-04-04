@@ -18,11 +18,11 @@ To get an overview of training details and experimental results, please refer to
 
 Our trained model can detect `human`, `cats`, and `dogs` from the images. Here are some examples:
 
-![](00048nms.jpeg)
+![Pic1](/demo/00048nms.jpeg)
 
-![](00058nms.jpeg)
+![Pic2](/demo/00058nms.jpeg)
 
-![](00062nms.jpeg)
+![Pic3](/demo/00062nms.jpeg)
 
-![](00068nms.jpeg)
+![Pic4](/demo/00068nms.jpeg)
 
